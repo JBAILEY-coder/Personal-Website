@@ -1,2 +1,2 @@
 # Personal-Website 
--about J'Nelle Bailey created using HTML
+-about J Bailey created using HTML
